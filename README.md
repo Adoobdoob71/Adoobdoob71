@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" height="200" alt="Dwight Schrute False"><br>
-  <b><p style="font-size:36px">Adoobdoob71</p></b><br>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="360" height="200" alt="Dwight Schrute False"><br><br>
+  <b><font style="font-size:36px">Adoobdoob71</font></b><br><br>
   <i>Mobile dev who likes building stuff that works on your phone.</i>
 </p>
 
@@ -23,8 +23,8 @@ Theme of choice: Dark+ (it’s easy on the eyes)
 <hr>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200" height="200">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2I3cjIybWJ4b29uODNsbmRrNGF6ZmR2czlyaWluYXQ0Z2FqNXl1eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="200" height="200">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="360" height="200">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2I3cjIybWJ4b29uODNsbmRrNGF6ZmR2czlyaWluYXQ0Z2FqNXl1eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="360" height="200">
 </p>
 
 ---
